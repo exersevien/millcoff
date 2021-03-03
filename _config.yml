@@ -76,8 +76,8 @@ footer-text: millcoff（2021）★ 我从诡秘中醒来
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 21b4cff499e9f3afa954
-  clientSecret: 0fcacadd8f5f1a7113c64582db7feb2d0b650fee
+  clientID: 9f615e0e3fcc67234799
+  clientSecret: b04655016b2f9cc006b13c1376041c0fe0edce4a
   repo: https://github.com/exersevien/millcoff
   owner: exersevien
   proxy: 185.199.108.153
