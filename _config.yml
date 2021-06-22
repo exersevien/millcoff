@@ -75,11 +75,11 @@ footer-text: MillCoff（2021）★ 我从诡秘中醒来
 #disqus: loffer #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
-gitalk:
-  clientID: 9f615e0e3fcc67234799
-  clientSecret: b04655016b2f9cc006b13c1376041c0fe0edce4a
-  repo: millcoff
-  owner: exersevien
+#gitalk:
+  #clientID: 9f615e0e3fcc67234799
+  #clientSecret: b04655016b2f9cc006b13c1376041c0fe0edce4a
+  #repo: millcoff
+  #owner: exersevien
   
 
 # 输入Google Analytics web tracking code
